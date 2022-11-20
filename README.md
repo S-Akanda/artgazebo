@@ -1,1 +1,1 @@
-# artgazebo is a multivendor site for creatives to sell their creative products and consumers to access and buy different arts conveniently.
+# artgazebo is a multivendor site for creatives to sell their products and consumers to access and buy different arts conveniently.
