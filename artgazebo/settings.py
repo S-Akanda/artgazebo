@@ -69,12 +69,8 @@ WSGI_APPLICATION = 'artgazebo.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'railway',
-        'USER': 'postgres',
-        'PASSWORD': 'EDT7UKEIuHesaniUpXXx',
-        'HOST': 'containers-us-west-117.railway.app',
-        'PORT': '6030',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR/ 'db.sqlite3',
     }
 }
 
